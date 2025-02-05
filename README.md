@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickForresta
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Python
 
 
 <!---
